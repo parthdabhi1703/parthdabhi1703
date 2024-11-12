@@ -43,10 +43,9 @@ I'm passionate about building web applications and eager to contribute to open-s
 <!--   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" fill="#FFFFFF"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="fill:#FFFFFF";/>
   &nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-  <img src="![GitHub](https://github.com/Parth/your-repository/raw/main/images/github-original.svg)" alt="Postman" width="40" height="40"/>
 </p>
 
 - 👀 I’m interested in learning Full Stack Web Development.
