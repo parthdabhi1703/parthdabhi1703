@@ -43,7 +43,7 @@ I'm passionate about building web applications and eager to contribute to open-s
 <!--   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   &nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="filter: invert(100%) sepia(100%) saturate(5000%) hue-rotate(180deg);"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="filter: invert(100%);"/>
   <img src="https://github.com/user-attachments/assets/92caeea8-a15e-41c3-bb54-ac4f251e92be" alt="GitHub" width="40" height="40" />
   &nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
