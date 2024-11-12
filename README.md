@@ -27,10 +27,10 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-- 👀 I’m interested in learning full stack web development.
+- 👀 I’m interested in learning Full Stack Web Development.
 - 🌱 I’m currently learning Node.js
-- 😄 Hobbies: love to watch movies, read books.
-- ⚡ Fun fact: I'm Batman <img src="https://github.com/user-attachments/assets/5384adaa-8c1c-4b05-a733-9a14549b9dbd" alt="Batman" style="width:25px;height:auto;" />
+- 😄 Hobbies: Love to watch movies.
+- ⚡ Fun Fact: I'm Batman <img src="https://github.com/user-attachments/assets/5384adaa-8c1c-4b05-a733-9a14549b9dbd" alt="Batman" style="width:25px;height:auto;" />
 
 
 <!---
