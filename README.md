@@ -27,10 +27,11 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-👀 I’m interested in learning full stack web development.
-🌱 I’m currently learning Node.js
-😄 Hobbies: love to watch movies, read books.
-⚡ Fun fact: I'm Batman 🦇
+- 👀 I’m interested in learning full stack web development.
+- 🌱 I’m currently learning Node.js
+- 😄 Hobbies: love to watch movies, read books.
+- ⚡ Fun fact: I'm Batman <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=batman&logoColor=yellow" alt="Batman" />
+
 
 <!---
 parthdabhi1703/parthdabhi1703 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
