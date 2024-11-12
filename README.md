@@ -46,6 +46,7 @@ I'm passionate about building web applications and eager to contribute to open-s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" fill="#FFFFFF"/>
   &nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+  <img src="![GitHub](https://github.com/Parth/your-repository/raw/main/images/github-original.svg)" alt="Postman" width="40" height="40"/>
 </p>
 
 - 👀 I’m interested in learning Full Stack Web Development.
