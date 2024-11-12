@@ -30,7 +30,9 @@
 - 👀 I’m interested in learning full stack web development.
 - 🌱 I’m currently learning Node.js
 - 😄 Hobbies: love to watch movies, read books.
-- ⚡ Fun fact: I'm Batman <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=batman&logoColor=yellow" alt="Batman" />
+- ⚡ Fun fact: I'm Batman <img src="https://pngtree.com/so/batman-logo" alt="Batman" style="width:50px;height:auto;" />
+
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=batman&logoColor=yellow" alt="Batman" />
 
 
 <!---
