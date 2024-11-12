@@ -1,6 +1,7 @@
 # Hi there, I am Parth Dabhi 👋
 
-<i>An aspiring web developer, currently learning the MERN stack. <br> I'm passionate about building web applications and eager to contribute to open-source projects as I grow my skills!</i>
+**An aspiring web developer, currently learning the MERN stack.**  
+I'm passionate about building web applications and eager to contribute to open-source projects as I grow my skills!
 
 ## My Skills 👨‍💻
 
