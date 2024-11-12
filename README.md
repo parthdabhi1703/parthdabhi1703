@@ -1,6 +1,6 @@
-# Hi there, I am Parth 👋
+# Hi there, I am Parth Dabhi 👋
 
-I'm an aspiring web developer, currently learning the MERN stack. I'm passionate about building web applications and eager to contribute to open-source projects as I grow my skills!
+An aspiring web developer, currently learning the MERN stack. I'm passionate about building web applications and eager to contribute to open-source projects as I grow my skills!
 
 ## My Skills 👨‍💻
 
@@ -25,14 +25,6 @@ I'm an aspiring web developer, currently learning the MERN stack. I'm passionate
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
-
-### Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/-ffffff?style=for-the-badge&logo=visual-studio-code&logoColor=0078d7" alt="VS Code" />
-<!--   <img src="https://img.shields.io/badge/-ffffff?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" /> -->
-  <img src="https://img.shields.io/badge/-ffffff?style=for-the-badge&logo=github&logoColor=181717" alt="GitHub" />
-  <img src="https://img.shields.io/badge/-ffffff?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
 </p>
 
 - 👀 I’m interested in ...
