@@ -32,6 +32,8 @@ I'm passionate about building web applications and eager to contribute to open-s
 - 🌱 I’m currently learning Node.js
 - 😄 Hobbies: Love to watch movies.
 - ⚡ Fun Fact: I'm Batman <img src="https://github.com/user-attachments/assets/5384adaa-8c1c-4b05-a733-9a14549b9dbd" alt="Batman" style="width:25px;height:auto;" />
+- ⚡ Fun Fact: I'm Batman <img src="https://cdn1.iconfinder.com/data/icons/social-media-logos-7/64/batman-512.png" alt="Batman" style="width:25px;height:auto;vertical-align:middle;" />
+
 
 
 <!---
