@@ -32,6 +32,7 @@ I'm passionate about building web applications and eager to contribute to open-s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   &nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="filter:invert(100%);"/>
+  <img src="https://icons8.com/icons/set/github--white" alt="GitHub" width="40" height="40" />
 </p>
 
 - 👀 I’m interested in learning Full Stack Web Development.
