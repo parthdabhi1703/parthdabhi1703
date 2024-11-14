@@ -42,4 +42,4 @@ I'm passionate about building web applications and eager to contribute to open-s
 
 &nbsp
 
-*Thanks for visiting my GitHub profile.❣️*
+*Thanks for visiting my GitHub profile.*❣️
