@@ -37,7 +37,7 @@ I'm passionate about building web applications and eager to contribute to open-s
 
 - 👀 I’m interested in learning Full Stack Web Development.
 - 🌱 I’m currently learning...
-- 😄 Hobbies: Love to watch movies.
+- ✨ Hobbies: Love to watch movies, play chess.
 - ⚡ Fun Fact: I'm Batman <img src="https://github.com/user-attachments/assets/5384adaa-8c1c-4b05-a733-9a14549b9dbd" alt="Batman" style="width:25px;height:auto;vertical-align:middle;" />
 
 <!---
