@@ -34,17 +34,16 @@ I'm passionate about building web applications and eager to contribute to open-s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
 </p>
 
-### Github Stats ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎  ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎    ‎Top Languages
-<div>
+### Github Stats
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthdabhi1703&theme=github_dark" />
-&nbsp
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthdabhi1703&layout=compact&theme=dark" />
-</div>
+
+### Top Languages
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthdabhi1703&layout=compact&theme=dark" />
 &nbsp
 
 - 👀 I’m interested in learning Full Stack Web Development.
 - 🌱 I’m currently learning...
 - ✨ Hobbies: I enjoy watching movies, playing chess, and reading books.
-- ⚡ Fun Fact: I’m Batman. <img src="https://github.com/user-attachments/assets/5384adaa-8c1c-4b05-a733-9a14549b9dbd" alt="Batman" style="width:25px;height:auto;vertical-align:middle;" />
+- ⚡ Fun Fact: I’m Batman. <img src="https://github.com/user-attachments/assets/5384adaa-8c1c-4b05-a733-9a14549b9dbd" alt="Batman" style="width:25px; height:auto; vertical-align:middle;" />
 
 *Thanks for visiting my GitHub profile.* ❣️
