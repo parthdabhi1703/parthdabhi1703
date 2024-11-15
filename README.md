@@ -46,4 +46,4 @@ I'm passionate about building web applications and eager to contribute to open-s
 
 <div align="center"><img src="https://github.com/parthdabhi1703/parthdabhi1703/blob/output/github-snake-dark.svg" /></div>
 
-<div align="center"><img src="https://visitcount.itsvg.in/api?id=parthdabhi1703&icon=2&color=9" /></div>
+<div align="center"><img src="https://visitcount.itsvg.in/api?id=parthdabhi1703&icon=2&color=9" width=100 /></div>
