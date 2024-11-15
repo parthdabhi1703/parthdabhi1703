@@ -1,4 +1,4 @@
-# Hi there, I am Parth Dabhi 👋
+# Hi there, I am Parth Dabhi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 **An aspiring web developer, currently learning the MERN stack.**  
 I'm passionate about building web applications and eager to contribute to open-source projects as I grow my skills!
@@ -31,8 +31,16 @@ I'm passionate about building web applications and eager to contribute to open-s
   &nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   &nbsp
-  <img src="https://raw.githubusercontent.com/parthdabhi1703/localrepo/442c75d4e4b87fc2b0a42f69e7b4cf2096cd6bbd/github.svg?token=BI4MY3SSACAU24G6WDOW7NTHG4KTO" alt="GitHub" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
 </p>
+
+### Github Stats ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎‎  ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎    ‎Top Languages
+<div>
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthdabhi1703&theme=github_dark" />
+&nbsp
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthdabhi1703&layout=compact&theme=dark" />
+</div>
+&nbsp
 
 - 👀 I’m interested in learning Full Stack Web Development.
 - 🌱 I’m currently learning...
