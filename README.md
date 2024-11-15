@@ -44,4 +44,6 @@ I'm passionate about building web applications and eager to contribute to open-s
 - ✨ Hobbies: I enjoy watching movies, playing chess, and reading books.
 - ⚡ Fun Fact: I’m Batman. <img src="https://github.com/parthdabhi1703/assets/blob/main/batman-logo.png?raw=true" alt="Batman" style="width:30px; height:auto; vertical-align:middle;" />
 
+<div align="center"><img src="https://github.com/parthdabhi1703/parthdabhi1703/blob/output/github-snake-dark.svg" /></div>
+
 <div align="center"><img src="https://visitcount.itsvg.in/api?id=parthdabhi1703&icon=2&color=9" /></div>
