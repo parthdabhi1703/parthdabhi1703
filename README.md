@@ -46,4 +46,4 @@ I'm passionate about building web applications and eager to contribute to open-s
 
 <div align="center"><img src="https://github.com/parthdabhi1703/parthdabhi1703/blob/output/github-snake-dark.svg" /></div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=parthdabhi1703&color=blue) <p>Thanks for visiting my profile<\p>
+<div align="center"><img src="https://komarev.com/ghpvc/?username=parthdabhi1703&color=blue" /></div>
