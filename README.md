@@ -37,6 +37,7 @@ I'm passionate about building web applications and eager to contribute to open-s
 ### Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthdabhi1703&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
+### GitHub Stats 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthdabhi1703&theme=github_dark" />
 
 - 👀 I’m interested in learning Full Stack Web Development.
