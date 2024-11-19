@@ -34,11 +34,11 @@ I enjoy creating web applications and eager to contribute to open-source project
   <img src="https://raw.githubusercontent.com/parthdabhi1703/assets/db932a672dbc20b4aeb4c1b0da675f11e634befd/github.svg" alt="GitHub" width="40" height="40" />
 </p>
 
-### Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthdabhi1703&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+### GitHub Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=parthdabhi1703&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api?username=parthdabhi1703&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=parthdabhi1703&theme=transparent&hide_border=false)<br/>
 
-### GitHub Stats 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthdabhi1703&theme=github_dark" />
 
 - 👀 I’m interested in learning Full Stack Web Development.
 - 🌱 I’m currently learning...
