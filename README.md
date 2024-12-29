@@ -18,7 +18,7 @@ I enjoy creating web applications and eager to contribute to open-source project
 
 ### Frameworks
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg)" alt="Tailwind CSS" width="40" height="40"/>
   &nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
