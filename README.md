@@ -40,10 +40,12 @@ I enjoy creating web applications and eager to contribute to open-source project
 ![](https://github-readme-streak-stats.herokuapp.com/?user=parthdabhi1703&theme=transparent&hide_border=false)<br/>
 
 
+<!--
 - 👀 I’m interested in learning Full Stack Web Development.
 - 🌱 I’m currently learning...
 - ✨ Hobbies: I enjoy watching movies, playing chess, and reading books.
 - ⚡ Fun Fact: I’m Batman. <img src="https://github.com/parthdabhi1703/assets/blob/main/batman-logo.png?raw=true" alt="Batman" style="width:30px; height:auto; vertical-align:middle;" />
+-->
 
 <div align="center"><img src="https://github.com/parthdabhi1703/parthdabhi1703/blob/output/github-snake-dark.svg" /></div>
 
