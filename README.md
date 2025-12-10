@@ -1,4 +1,4 @@
-# Hi there, I am Parth Dabhi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hey there, I am Parth Dabhi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 **An aspiring web developer, currently learning the MERN stack.**
 I enjoy creating web applications and eager to contribute to open-source projects as I grow my skills!
