@@ -38,9 +38,9 @@ I enjoy creating web applications and eager to contribute to open-source project
 <div>
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthdabhi1703&theme=github_dark" />
 <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthdabhi1703&layout=compact&theme=dark" /> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=parthdabhi1703&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=parthdabhi1703&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=parthdabhi1703&theme=transparent&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parthdabhi1703&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/> -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=parthdabhi1703&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=parthdabhi1703&theme=transparent&hide_border=false)<br/> -->
 </div>
 
 <!--
